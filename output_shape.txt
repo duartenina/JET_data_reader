@@ -1,0 +1,36 @@
+# Energy Window #1 (E min, E max)
+# t min | t max | Counts | Counts -bg
+
+# Energy Window #2 (E min, E max)
+# t min | t max | Counts | Counts -bg
+
+-------------------------------------------------------------------------------
+
+# Event #1 (t min, t max)
+# E min | E max | Counts | Counts -bg
+
+# Event #2 (t min, t max)
+# E min | E max | Counts | Counts -bg
+
+-------------------------------------------------------------------------------
+
+# t min | t max |  Energy Window #1   |   Energy Window #2
+#       |       | Counts | Counts -bg | Counts | Counts -bg
+
+===============================================================================
+
+# Format = ""
+# E min | E max |  Event #1: 0s to 0s |  Event #2: 0s to 0s 
+#       |       | Counts | Counts -bg | Counts | Counts -bg
+
+===============================================================================
+===============================================================================
+
+# Format = ""
+# Energy Window #1: E min to E max
+# ch |  Event #1: 0s to 0s |  Event #2: 0s to 0s 
+#    | Counts | Counts -bg | Counts | Counts -bg
+
+# Energy Window #2: E min to E max
+# ch |  Event #1: 0s to 0s |  Event #2: 0s to 0s 
+#    | Counts | Counts -bg | Counts | Counts -bg
